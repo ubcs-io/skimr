@@ -1,0 +1,12 @@
+Greetings!
+
+This is a test sheet for demonstrating the
+capabilities of this OCR workflow.
+
+This page will appear as a scanned PDF in
+the input directory. When the script are
+run successfully, you will have a .txt file
+with this text as output. Replace this PDF
+
+and try it out!
+
